@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "bottom": 32,
+      "position": "absolute",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 16,
+        "fontWeight": "500",
+        "textAlign": "center",
+      }
+    }
+  >
+    By signing in I accept the
+     
+    <Text
+      onPress={[Function]}
+      style={
+        Object {
+          "textDecorationLine": "underline",
+        }
+      }
+    >
+      General Terms
+    </Text>
+  </Text>
+</View>
+`;
